@@ -1,4 +1,4 @@
-# Список популярных фильмов
+# Супер список популярных фильмов
 <a href="https://github.com/Vova-SH/Samsung-Bootcamp-2021/actions/workflows/android.yml"><img src="https://github.com/Vova-SH/Samsung-Bootcamp-2021/actions/workflows/android.yml/badge.svg" align="left" alt="Android CI"></a>
 <p align="right">
   <a href="./README.en-US.md">English</a>
